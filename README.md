@@ -55,6 +55,7 @@ The goal of this project is to strengthen **problem-solving skills**, improve **
 * Understand **logic instead of memorizing code**
 * Prepare for **technical interviews and coding tests**
 
+---
 
 🛠️ Technologies Used
 
@@ -62,6 +63,7 @@ The goal of this project is to strengthen **problem-solving skills**, improve **
 * Basic Data Structures (Arrays, Strings)
 * Algorithms (Searching, Sliding Window, Two Pointer, etc.)
 
+---
 
 ▶️ How to Run
 
@@ -83,7 +85,7 @@ The goal of this project is to strengthen **problem-solving skills**, improve **
    javac FileName.java
    java FileName
    ```
-
+---
 
 📈 Learning Outcome
 
@@ -92,7 +94,7 @@ By practicing these problems, you will:
 * Gain confidence in solving **DSA problems**
 * Improve **coding speed and accuracy**
 * Understand **real interview-level logic**
-
+---
 
 🤝 Contribution
 
@@ -101,10 +103,11 @@ Feel free to:
 * Add more problems
 * Improve existing solutions
 * Optimize logic
-
+---
 
 ⭐ Support
 
 If you found this useful, consider giving this repo a ⭐ on GitHub!
 
 Focus on logic. Code will follow.
+---
