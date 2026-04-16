@@ -6,7 +6,7 @@ This repository contains a collection of **logic-building problems implemented i
 The goal of this project is to strengthen **problem-solving skills**, improve **core programming logic**, and prepare for **coding interviews**.
 
 
-
+---
 
 
 📌 Topics Covered
@@ -45,7 +45,7 @@ The goal of this project is to strengthen **problem-solving skills**, improve **
 * Frequency of Elements in Array (without HashMap)
 
 
-
+---
 
 
  🧠 Purpose of This Repository
