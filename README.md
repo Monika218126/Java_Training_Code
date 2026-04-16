@@ -7,6 +7,8 @@ The goal of this project is to strengthen **problem-solving skills**, improve **
 
 
 
+
+
 📌 Topics Covered
 
 🔥 Section 1 — Number Logic
@@ -41,6 +43,9 @@ The goal of this project is to strengthen **problem-solving skills**, improve **
  💣 Section 6 — Advanced Logic
 
 * Frequency of Elements in Array (without HashMap)
+
+
+
 
 
  🧠 Purpose of This Repository
